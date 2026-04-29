@@ -28,23 +28,6 @@ Tech Stack
 - Matplotlib  
 - Seaborn  
 
-Installation
-
-1. Clone Repository
-bash
-git clone https://github.com/your-username/customer-purchase-prediction.git
-cd customer-purchase-prediction
-
-2. Install Dependencies
-bash
-pip install -r requirements.txt
-
-
-3. Run the Project
-bash
-python app.py
-or run through colab or jupyter notebook
-
 Dataset Features
 - Age  
 - Estimated Salary  
